@@ -1,7 +1,7 @@
-World-Happiness-Index-2015-Dashboard
+##World-Happiness-Index-2015-Dashboard
 Excel-based dashboard analyzing the World Happiness Index 2015 using socio-economic indicators from the World Happiness Report.
 
-Project Overview
+##Project Overview
 This project presents an interactive World Happiness Index 2015 Dashboard built using Microsoft Excel, based on data from the World Happiness Report 2015. The dashboard analyzes happiness scores across countries and regions using key socio-economic indicators.
 
  Business & Policy Objectives
